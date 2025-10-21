@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">post3</string>
+    <string name="form_pendaftaran">FORM PENDAFTARAN</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="username">Username</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="age">Age</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="gender">Gender</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="re_enter_your_password">Re-enter your password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="full_name_result">Full Name:</string>
+    <string name="full_name_result2">Irfan Habibi</string>
+    <string name="username_result">Username:</string>
+    <string name="username_result2">Biby</string>
+    <string name="age_result">Age:</string>
+    <string name="age_result2">21</string>
+    <string name="email_result">Email</string>
+    <string name="email_result2">biby@haha.com</string>
+    <string name="gender_result">Gender:</string>
+    <string name="gender_result2">Laki-laki</string>
+    <string name="registration_result">Registration Result</string>
+</resources>
