@@ -26,15 +26,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        val etFullName = findViewById<EditText>(R.id.etFullName)
-        val etUsername = findViewById<EditText>(R.id.etUsername)
-        val etAge = findViewById<EditText>(R.id.etAge)
-        val etEmail = findViewById<EditText>(R.id.etEmail)
-        val rgGender = findViewById<RadioGroup>(R.id.rgGender)
-        val etPassword = findViewById<EditText>(R.id.etPassword)
-        val etConfirmPassword = findViewById<EditText>(R.id.etConfirmPassword)
-        val btnSubmit = findViewById<Button>(R.id.btnSubmit)
-
         binding.apply {
             btnSubmit.setOnClickListener {
                 val fullName = etFullName.text.toString()
